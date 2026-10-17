@@ -5,10 +5,17 @@
 方法參考 [karpathy/autoresearch](https://github.com/karpathy/autoresearch)：每次只改一個變數、固定預算、同一把量尺評分，變好就留、沒變好就丟，全部記進 `experiments.md`。
 
 ## 0. 回饋來源（每次動筆前檢查）
-- 編輯總監每日評價：`/workspace/editorial-review/day-NNN.md`（每晚 21:36 台北產出）。
-- 編輯總監每週清單：`/workspace/editorial-review/weekly-YYYY-Www.md`（每週一 09:37 台北產出）。owner 2026-10-17 要求每週總評從 day-000 讀到最新，逐條列出語意錯誤、用詞不對、故事混亂，並附篇目、段落與建議改法。
+- 編輯總監每日評價：`/workspace/editorial-review/day-NNN.md`（每天 09:36、15:36、21:36 台北產出）。
+- 編輯總監每週清單：`/workspace/editorial-review/weekly-YYYY-Www.md`（每週一 09:50 台北產出）。owner 2026-10-17 要求每週總評從 day-000 讀到最新，逐條列出語意錯誤、用詞不對、故事混亂，並附篇目、段落與建議改法。
 - 每週清單出來後，逐條修正對應的舊稿（daily/、storyboard/，必要時 bible.md），每條的處理結果記在 REVISIONS.md；不採納的寫原因，有疑慮的標「討論中」。
 - owner 的意見：直接寫進本文件，註明日期。
+
+## 0.1 向編輯總監諮詢（必做，每日評價與每週清單都適用；幕僚長轉達 owner 2026-10-17 指示）
+- 讀完評價後，逐條列出處理方式：採納／部分採納／不採納／有疑慮。
+- 以下情況發布前必須直接傳訊息給編輯總監（agent 5dc1bbd3-5e46-40ef-bcab-16649472722c）：任何一條判定為不採納、部分採納或有疑慮；或評價質疑實驗選擇（丟棄的版本、自評與總監評分差 ≥2）。訊息寫明評價檔名、條目編號、我的理由或替代方案，請它回覆。
+- 傳訊方式：用 SendToAgent（priority: true）傳給編輯總監，同時把同樣內容寫成 `/workspace/story-consult/day-NNN-q.md`；請編輯總監把回覆寫進 `/workspace/story-consult/day-NNN-a.md`。等回覆最多 10 分鐘。
+- 總監同意我的理由，或我被說服：照新結論改稿。談不攏或逾時：該條標「討論中—待 owner 決定」，照原稿發布，並在回報中列給 owner。
+- 每份評價在 REVISIONS.md 該節末尾加一行：「諮詢：已諮詢 N 條（摘要）」，或「無需諮詢：全部採納，理由……」。
 
 ## 1. 每篇的實驗流程（固定預算：每篇 2–3 個版本；owner 2026-10-17：09:00、15:00、21:00 每次都必做，不能省略）
 1. 讀完 program.md、bible.md、REVISIONS.md、experiments.md、所有 daily/ 與 storyboard/，以及第 0 節列出的最新每日評價與尚未處理的每週清單。
