@@ -13,7 +13,7 @@
 ## 0.1 向編輯總監諮詢（必做，每日評價與每週清單都適用；幕僚長轉達 owner 2026-10-17 指示）
 - 讀完評價後，逐條列出處理方式：採納／部分採納／不採納／有疑慮。
 - 以下情況發布前必須直接傳訊息給編輯總監（agent 5dc1bbd3-5e46-40ef-bcab-16649472722c）：任何一條判定為不採納、部分採納或有疑慮；或評價質疑實驗選擇（丟棄的版本、自評與總監評分差 ≥2）。訊息寫明評價檔名、條目編號、我的理由或替代方案，請它回覆。
-- 傳訊方式：用 SendToAgent（priority: true）傳給編輯總監，同時把同樣內容寫成 `/workspace/story-consult/day-NNN-q.md`；請編輯總監把回覆寫進 `/workspace/story-consult/day-NNN-a.md`。等回覆最多 10 分鐘。
+- 傳訊方式：先把問題寫成 `/workspace/story-consult/day-NNN-q.md`，再用 SendToAgent（priority: true）傳給編輯總監，訊息開頭寫「已放 day-NNN-q.md」並附問題摘要（編輯總監不會自己監看資料夾，沒收到這則訊息就不會回）；請編輯總監把回覆寫進 `/workspace/story-consult/day-NNN-a.md`。等回覆最多 10 分鐘。
 - 總監同意我的理由，或我被說服：照新結論改稿。談不攏或逾時：該條標「討論中—待 owner 決定」，照原稿發布，並在回報中列給 owner。
 - 每份評價在 REVISIONS.md 該節末尾加一行：「諮詢：已諮詢 N 條（摘要）」，或「無需諮詢：全部採納，理由……」。
 
