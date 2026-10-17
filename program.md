@@ -4,8 +4,14 @@
 
 方法參考 [karpathy/autoresearch](https://github.com/karpathy/autoresearch)：每次只改一個變數、固定預算、同一把量尺評分，變好就留、沒變好就丟，全部記進 `experiments.md`。
 
+## 0. 回饋來源（每次動筆前檢查）
+- 編輯總監每日評價：`/workspace/editorial-review/day-NNN.md`（每晚 21:36 台北產出）。
+- 編輯總監每週清單：`/workspace/editorial-review/weekly-YYYY-Www.md`（每週一 09:37 台北產出）。owner 2026-10-17 要求每週總評從 day-000 讀到最新，逐條列出語意錯誤、用詞不對、故事混亂，並附篇目、段落與建議改法。
+- 每週清單出來後，逐條修正對應的舊稿（daily/、storyboard/，必要時 bible.md），每條的處理結果記在 REVISIONS.md；不採納的寫原因，有疑慮的標「討論中」。
+- owner 的意見：直接寫進本文件，註明日期。
+
 ## 1. 每篇的實驗流程（固定預算：最多 3 個版本）
-1. 讀完 program.md、bible.md、REVISIONS.md、experiments.md、所有 daily/ 與 storyboard/，以及 /workspace/editorial-review/ 最新評價。
+1. 讀完 program.md、bible.md、REVISIONS.md、experiments.md、所有 daily/ 與 storyboard/，以及第 0 節列出的最新每日評價與尚未處理的每週清單。
 2. 寫基準稿 v0，用下方量表自評。
 3. 找出 v0 最低分的面向，做 1–2 個變體（v1、v2）。每個變體只改一個變數，例如開場、對白、節奏、伏筆、玩法判定，其餘照抄 v0。
 4. 每個變體用同一把量表自評。總分最高的版本發布；同分時留改動較小的那版。其他版本丟棄，不進 repo，只把改了什麼和分數記進 experiments.md。
