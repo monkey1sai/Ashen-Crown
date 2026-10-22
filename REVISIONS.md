@@ -492,3 +492,5 @@
 ## 2026-10-22 15:00 排程（day-022）
 回饋檢查：`/workspace/editorial-review/` 新增 day-020.md、day-021.md（2026-10-22 09:40），本次處理（見上兩節）。每週清單只有 weekly-2026-W42（已於 2026-10-19 15:00 全部處理），本次無新清單（W43 在 2026-10-26 週一產出）。`/workspace/story-consult/` 沒有新的 -a.md（最新仍是 day-017-a.md，已結案）；處理前 REVISIONS.md 沒有「討論中」條目，處理後新增兩條（day-021 評價建議 4、矛盾 2 前提）。PR#1 評議的五項「作者決定（預設，待 owner 確認）」仍待 owner 確認，本篇照預設讀法寫。
 本篇落實：門檻 UI 讀取與改寫、每列當下回饋、帳本「有人翻過」揭曉只在問「誰叫你來的」的路線、轉折留在現場（口信的對象是老闆娘）、新規則「鐵冠的口信」寫進 bible。改了：daily/day-022.md、storyboard/day-022.md、bible.md（v2.3）、summary.md、experiments.md、program.md、REVISIONS.md；舊稿 daily/day-015、019、020、021 與對應 storyboard。
+
+- 2026-10-22 day-021-a 諮詢結案：Q1 門縫燈籠光，總監同意；Q2 擦燈罩補拍足夠，day-020 正文補上「從梯腳拿起布擦燈罩」，與修稿註記對齊。
