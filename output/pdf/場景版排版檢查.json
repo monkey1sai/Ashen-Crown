@@ -1,0 +1,140 @@
+{
+  "pages": 76,
+  "chapters": [
+    {
+      "title": "第一章 灰中甦醒",
+      "physical_page": 4,
+      "printed_page": 1
+    },
+    {
+      "title": "第二章 掛燈之門",
+      "physical_page": 9,
+      "printed_page": 6
+    },
+    {
+      "title": "第三章 燒不得的一頁",
+      "physical_page": 12,
+      "printed_page": 9
+    },
+    {
+      "title": "第四章 先觸者得",
+      "physical_page": 16,
+      "printed_page": 13
+    },
+    {
+      "title": "第五章 紙裡的耳朵",
+      "physical_page": 22,
+      "printed_page": 19
+    },
+    {
+      "title": "第六章 別鬆",
+      "physical_page": 26,
+      "printed_page": 23
+    },
+    {
+      "title": "第七章 灰裡的最後一句",
+      "physical_page": 30,
+      "printed_page": 27
+    },
+    {
+      "title": "第八章 親口說的數",
+      "physical_page": 33,
+      "printed_page": 30
+    },
+    {
+      "title": "第九章 給下一個空的人",
+      "physical_page": 36,
+      "printed_page": 33
+    },
+    {
+      "title": "第十章 伊瑟倫判錯",
+      "physical_page": 39,
+      "printed_page": 36
+    },
+    {
+      "title": "第十一章 桌尾的一副碗",
+      "physical_page": 42,
+      "printed_page": 39
+    },
+    {
+      "title": "第十二章 溝口那一碗",
+      "physical_page": 45,
+      "printed_page": 42
+    },
+    {
+      "title": "第十三章 帳房的釘子",
+      "physical_page": 49,
+      "printed_page": 46
+    },
+    {
+      "title": "第十四章 半箱灰屑",
+      "physical_page": 52,
+      "printed_page": 49
+    },
+    {
+      "title": "第十五章 她給的還是你要的",
+      "physical_page": 55,
+      "printed_page": 52
+    },
+    {
+      "title": "第十六章 第三家的門",
+      "physical_page": 58,
+      "printed_page": 55
+    },
+    {
+      "title": "第十七章 叫他一聲",
+      "physical_page": 61,
+      "printed_page": 58
+    },
+    {
+      "title": "第十八章 替你要的付",
+      "physical_page": 65,
+      "printed_page": 62
+    },
+    {
+      "title": "第十九章 牆根的灰",
+      "physical_page": 68,
+      "printed_page": 65
+    },
+    {
+      "title": "第二十章 燒乾的燈籠",
+      "physical_page": 72,
+      "printed_page": 69
+    }
+  ],
+  "paragraphs_verified": 754,
+  "missing_paragraphs": [],
+  "manuscript_sha256": "d2b16269a1dd54e17c6387b729e489c00d9859923edd48d1b165654f15697826",
+  "pdf_sha256": "09de5f2e50544cbf75b2203d5b37b3f3584a5161bd10fba69de2729da637e87b",
+  "pdf_bytes": 27692087,
+  "images": [
+    "C:\\Users\\IOT\\.codex\\worktrees\\ashen-crown-novel\\Ashen-Crown\\novel\\illustrations\\灰燈旅店.png",
+    "C:\\Users\\IOT\\.codex\\worktrees\\ashen-crown-novel\\Ashen-Crown\\novel\\illustrations\\角色概念.png",
+    "C:\\Users\\IOT\\.codex\\worktrees\\ashen-crown-novel\\Ashen-Crown\\novel\\illustrations\\01-廢墟初遇.png",
+    "C:\\Users\\IOT\\.codex\\worktrees\\ashen-crown-novel\\Ashen-Crown\\novel\\illustrations\\04-汛溝救人.png",
+    "C:\\Users\\IOT\\.codex\\worktrees\\ashen-crown-novel\\Ashen-Crown\\novel\\illustrations\\17-燈下叫名.png",
+    "C:\\Users\\IOT\\.codex\\worktrees\\ashen-crown-novel\\Ashen-Crown\\novel\\illustrations\\20-燒乾的燈籠.png"
+  ],
+  "scene_illustrations": [
+    {
+      "chapter": 1,
+      "physical_page": 8,
+      "title": "廢墟初遇"
+    },
+    {
+      "chapter": 4,
+      "physical_page": 21,
+      "title": "汛溝救人"
+    },
+    {
+      "chapter": 17,
+      "physical_page": 64,
+      "title": "燈下叫名"
+    },
+    {
+      "chapter": 20,
+      "physical_page": 76,
+      "title": "燒乾的燈籠"
+    }
+  ]
+}

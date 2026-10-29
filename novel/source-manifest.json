@@ -1,0 +1,140 @@
+{
+  "base_commit": "d4a1ad4d93019f1193258026149f08e1309fbeb2",
+  "latest_episode": "day-042",
+  "route": "default",
+  "chapter_sources": {
+    "1": [
+      "day-000",
+      "day-001",
+      "day-002"
+    ],
+    "2": [
+      "day-003",
+      "day-004"
+    ],
+    "3": [
+      "day-005",
+      "day-006"
+    ],
+    "4": [
+      "day-007",
+      "day-008",
+      "day-009"
+    ],
+    "5": [
+      "day-010",
+      "day-011"
+    ],
+    "6": [
+      "day-012"
+    ],
+    "7": [
+      "day-013",
+      "day-014"
+    ],
+    "8": [
+      "day-015",
+      "day-016"
+    ],
+    "9": [
+      "day-017",
+      "day-018"
+    ],
+    "10": [
+      "day-019"
+    ],
+    "11": [
+      "day-020",
+      "day-021"
+    ],
+    "12": [
+      "day-022",
+      "day-023",
+      "day-024"
+    ],
+    "13": [
+      "day-025",
+      "day-026"
+    ],
+    "14": [
+      "day-027",
+      "day-028"
+    ],
+    "15": [
+      "day-029",
+      "day-030"
+    ],
+    "16": [
+      "day-031",
+      "day-032",
+      "day-033"
+    ],
+    "17": [
+      "day-034",
+      "day-035"
+    ],
+    "18": [
+      "day-036",
+      "day-037"
+    ],
+    "19": [
+      "day-038",
+      "day-039",
+      "day-040"
+    ],
+    "20": [
+      "day-041",
+      "day-042"
+    ]
+  },
+  "sources": {
+    "daily/day-000.md": "30374feefa9d9e50820d63d43e645f5f42909086014a99163562eb8a5ba69f52",
+    "daily/day-001.md": "8929fb7ec00391117aa2abaedb3ea83f8abdd8f703af08daac1164fe1ca772c9",
+    "daily/day-002.md": "da0f2217ab50e0fcf49f3c6b625e252e159d1359221896e6864df1204ba23a17",
+    "daily/day-003.md": "dd220e209fc201447ab6db4cea635f8ba393a991fb3f412ffffd0a2d3ed0733d",
+    "daily/day-004.md": "701e32d0b6cc47cd4820748eff6a981ab8fdceb4d654123c4d98309e5624c8c6",
+    "daily/day-005.md": "aa81cfc83abba355b28a7ff8daa94b9ed78e420726c4c6742032804172c992fa",
+    "daily/day-006.md": "a665ce832b25361ac49a4fd3f60ec9635a820d0d7a7a7417c49c468facdb5148",
+    "daily/day-007.md": "6851649b5df0e24793799a07bc5f22d02f68342477e99ed22d88f50566939691",
+    "daily/day-008.md": "df0f532d75411a675bc8154c091b8caee8e8ceadde2af3913ec3d4cadc6175ad",
+    "daily/day-009.md": "1c70737f8eb59eefbeb7238445225443da574d97a07ad535bac3245bfae8642d",
+    "daily/day-010.md": "0dde743a87d4bddd375e4e7c4b2f5c060d6f8ba7452ad6857978cd3865a01f1e",
+    "daily/day-011.md": "ae55178ecd2210c998b11d5af815026737d1f32cb99466e76af1a8f566837eb2",
+    "daily/day-012.md": "3186e5b3d0213e21ccf83bea3ade0e9342719391863e17011fc5c5b4dc59953f",
+    "daily/day-013.md": "fa7a6a4d4ffbb9bbd57823f08eb3aec007d93d35f3d21cb242abe654655b8088",
+    "daily/day-014.md": "6245f06021666f4203c3bdfd4274814f155236d6fea4aa474071d0f043a0fa4d",
+    "daily/day-015.md": "09268e042083a48bd066123764cc5f59ca9ff0a6968a6bbc437f451a76dccbfc",
+    "daily/day-016.md": "26f5507d8e908a2b24f1effa596f230665622be5c966da3db78df45eb2e89bfa",
+    "daily/day-017.md": "639bcb22c586ed34d7a5e4751fcc979276e6bd5d4d808bbaa60be981faf94d82",
+    "daily/day-018.md": "6b5b4c24fa6e3bbcae469a0b8de88e0c1faf61fa2e6eb9696078e9ff6b118ebf",
+    "daily/day-019.md": "9b9a074550fff537d704ab0f67dd724516507f22fd68a4a3953ca4e935ba5bc3",
+    "daily/day-020.md": "723e472e17c2f44bc07ed38e52cd8d28668f90ce031ce93ebcb9ef7852d9fdcf",
+    "daily/day-021.md": "3b185467f9a98ddeebecbc5fa5312e387556c52a1a8341526f6df4257ec5d9ae",
+    "daily/day-022.md": "170e6304bd657938f27395917d1710795db2bd7ced0c74a2c3b173af44a78ea1",
+    "daily/day-023.md": "f7a593c84822d59bc1b9b4559981fd19af995419476039a54e7c1648484ffb1d",
+    "daily/day-024.md": "6ba1757cd02eca3145ac26d48d832ee6f934c928b8910bb2d4eb58fc573dc356",
+    "daily/day-025.md": "06cfde571bbc72ac7f16b33d4cb38181f3e3539a56736c2ad74dfd781152cf61",
+    "daily/day-026.md": "9272b2d9225dbdbb018c33c27d0dfcf839c101af5c5a21bc58e360331d02d26f",
+    "daily/day-027.md": "eba2222f1739e5c27e6eda5db7975350c449932c58a28046d1e9aed824e8d9c6",
+    "daily/day-028.md": "6c9de2e59f2b144dc4126724dc82f95fcd35120852cdb55d27e42528825bcb80",
+    "daily/day-029.md": "ce271fee8501b92adea24ec0b056ee377af1d98fe959da661cbe559937143677",
+    "daily/day-030.md": "69a3b898ff437c461c61ace6bd699823bb6fe28e6c1f05f81fce31f097b21b5f",
+    "daily/day-031.md": "7e9e1dee96ca377a483fc45b67f8a973c153256b20770297ab7bfc91f4cf8c00",
+    "daily/day-032.md": "a195df5c38e5bb34640f273b985d9560db396c9bc1434c96285d7bf24a9e088b",
+    "daily/day-033.md": "c0a465c0b45d3da0a1a123ee92752573e4e71f7ea08c26b9f9a0e8198f1eaa5c",
+    "daily/day-034.md": "c3138d19b38f35f2b796ea6b9ca82cd33a88d9b4653ba6520f334f32b6d0c6d4",
+    "daily/day-035.md": "91f9208026b2f4e734d3d729c69b0d0ed3e51893012793f3c74fd30cf3e1c6a5",
+    "daily/day-036.md": "de98273063dc8bad96bec7db7c0c8e988985493f520b57d2730b7ebcff579ee9",
+    "daily/day-037.md": "6c0e5d1cf28eff13ddad94a99c62d66ad82ab218ee7b9fb82d8916c7d06644a0",
+    "daily/day-038.md": "c736e4d23de49c91aa5a1e9277af01a699e6f1fa1b9da416191ebcc308ade751",
+    "daily/day-039.md": "24d5c1bc6d74b5b1c5482bf129a7c43048af4555eb552994cea8ec0e3f8c7928",
+    "daily/day-040.md": "4a95305a04ce5cdeadac0ede297622b3ec9599b4109e289ab3b7fcc80ccbd9db",
+    "daily/day-041.md": "12a19b92b05a93fdbdcacf49532da071b919e675baa050200b28b50c7e46b83d",
+    "daily/day-042.md": "0c0c5db153e2ea44b08d6b864d2100b65deb180fa49181b2a9689ab185cc347a",
+    "bible.md": "21846be710ec84fe0050fd742b469044dfc9bc5646e339226a350c65f92ca491",
+    "summary.md": "ca88741d64eed8922ecb184c58d0264deb496e34a4bdcd324f94b9cb726079fa",
+    "program.md": "14ce7564e1414f873a384d20dcc5b6ff1bcdbf981c448272e32bb18488815fd7"
+  },
+  "manuscript_sha256": "d2b16269a1dd54e17c6387b729e489c00d9859923edd48d1b165654f15697826",
+  "html_sha256": "444ab44574fab60d050626f969dd83fc5a4277b28b60f60a5f8aa28e0a1af486"
+}
