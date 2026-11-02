@@ -1,6 +1,6 @@
 # index.md｜《灰燼之冠》索引
 
-> 查舊事先看這裡，再翻 `daily/day-NNN.md` 或 `bible-appendix.md`。篇數由 `rg -l` 對 daily/ 搜關鍵詞產生（字面命中，可能含提及）；每篇出稿更新（program §0.2）。最後更新：2026-11-02 15:00（含 day-054）。
+> 查舊事先看這裡，再翻 `daily/day-NNN.md` 或 `bible-appendix.md`。篇數由 `rg -l` 對 daily/ 搜關鍵詞產生（字面命中，可能含提及）；每篇出稿更新（program §0.2）。最後更新：2026-11-02 15:00（含 day-055）。
 
 ## 角色
 | 角色 | 出現的篇 | bible／附錄 |
